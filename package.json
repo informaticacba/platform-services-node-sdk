@@ -64,7 +64,7 @@
     "jest": "^26.0.0",
     "prettier": "^2.3.0",
     "request": "^2.88.0",
-    "semantic-release": "^18.0.0",
+    "semantic-release": "^19.0.3",
     "tsc-publish": "^0.5.2",
     "typedoc": "^0.20.34",
     "typescript": "^3.8.3",
